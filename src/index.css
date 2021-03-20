@@ -103,3 +103,12 @@
 .blog-details div {
   margin: 20px 0;
 }
+
+.blog-delete-button {
+  background: #326fa8;
+  color: #fff;
+  cursor: pointer;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+}
